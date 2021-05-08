@@ -5,7 +5,7 @@
     - NodeJs 
     - Docker
     - Express
-    - Telecom Technical Support
+    - DevOps
     - Music lover 
 
 
